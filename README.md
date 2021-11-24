@@ -6,3 +6,5 @@
 
 This is a group managment bot that can be hosted on heroku
 
+# Hosting
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AtarvNegi2951/CharizardX/tree/master)

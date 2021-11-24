@@ -6,5 +6,3 @@
 
 This is a group managment bot that can be hosted on heroku
 
-Contacts Us on
-ComfeeGang(t.me/comfee_gang_2)
